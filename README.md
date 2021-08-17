@@ -2,5 +2,5 @@
 图片编辑链接https://app.asana.com/0/1200801373243734/list
 
 ### 8月17更新
-![image](better-offer-2021/work.png)
+![image](https://github.com/BuringBlue/better-offer-2021/blob/cat-branch/work.png)
 
